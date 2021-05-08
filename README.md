@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/28927057/117524539-1f4b9600-af94-11eb-8d9d-9192dd07f7e0.png)
+![image](https://user-images.githubusercontent.com/28927057/117526856-4909ba80-af9e-11eb-8192-dd4f7ca71851.png)
 
 <h3>Hi, 👋 if you keep reading you will know more about me and my interests</h3>
 
