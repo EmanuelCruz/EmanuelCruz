@@ -23,7 +23,7 @@
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" alt="Logo ReactJs">&nbsp;
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50" alt="Logo NodeJs">&nbsp
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="115" alt="Logo Git">&nbsp;
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="55" alt="Logo PHP">&nbsp;
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="55" alt="Logo Bootstrap">&nbsp;
 <p>
 </section>
 
