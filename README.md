@@ -1,11 +1,8 @@
 ![image](https://user-images.githubusercontent.com/28927057/117526856-4909ba80-af9e-11eb-8192-dd4f7ca71851.png)
 
-<header style="font-size: 12px">
-    <h2>Hi, 👋 if you keep reading you will know more about me and my interests</h2>
-</header>
+## Hi, 👋 if you keep reading you will know more about me and my interests
 
-<section>
-<h3> About Me </h3>
+### About Me
 
 - 🔍 &nbsp; Exploring new web technologies.
 - 🎓 &nbsp; Studying Information Systems Engineering.
@@ -13,9 +10,8 @@
 - 🎯 &nbsp; Learning more about Backend and Frontend Development.
 - 🎉 &nbsp; My hobbies are sports in general, video games and programming.
 
-</section>
-<section>
-<h3> Languages and Tools </h3>
+### Languages and Tools
+
 <p>
   <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="75" alt="Logo PHP">&nbsp
   <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="50" alt="Logo Laravel" style="transform: rotate(-90deg);">&nbsp
@@ -25,7 +21,6 @@
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="115" alt="Logo Git">&nbsp
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="55" alt="Logo Bootstrap">&nbsp;
 <p>
-</section>
 
 ---
 
