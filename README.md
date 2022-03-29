@@ -18,7 +18,7 @@
 <h3> Languages and Tools </h3>
 <p>
   <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="75" alt="Logo PHP">&nbsp;
-  <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="50" alt="Logo Laravel" style="transform: rotate(270deg);">&nbsp;
+  <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="50" alt="Logo Laravel" style="transform: rotate(-90deg);">&nbsp;
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="Logo JavaScript">&nbsp;
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" alt="Logo ReactJs">&nbsp;
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50" alt="Logo NodeJs">&nbsp
