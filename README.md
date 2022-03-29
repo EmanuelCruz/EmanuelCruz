@@ -29,7 +29,7 @@
 
 ---
 
-<p style="text-align: center;">
+<p  align="center">
     <!--
     <a target="_blank" href=""><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
     -->
