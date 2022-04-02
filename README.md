@@ -14,7 +14,6 @@
 
 <p>
   <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="75" alt="Logo PHP">&nbsp
-<<<<<<< HEAD
   <img src="https://media.giphy.com/media/y4qp2YuQLh5jjB6mdI/giphy.gif" width="50" alt="Logo Laravel">&nbsp
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="Logo JavaScript">&nbsp
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" alt="Logo ReactJs">&nbsp
