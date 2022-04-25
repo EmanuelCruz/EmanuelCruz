@@ -10,6 +10,12 @@
 - 🎯 &nbsp; Learning more about Backend and Frontend Development.
 - 🎉 &nbsp; My hobbies are sports in general, video games and programming.
 
+### 🔍 &nbsp; Learning Now
+
+- Advanced OOP
+- Design Patterns
+- Flutter for beginner
+
 ### Languages and Tools
 
 <p>
