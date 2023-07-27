@@ -3,6 +3,7 @@
 ## Hi, 👋 if you keep reading you will know more about me and my interests
 
 ---
+
 <p  align="center">
     <!--
     <a target="_blank" href=""><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
@@ -21,6 +22,7 @@
         <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/>
     </a>-->
 </p>
+
 ---
 
 ### About Me
@@ -53,4 +55,4 @@
 
 ---
 
-![Codewars](https://github.r2v.ch/codewars?user=EmanuelCruz&stroke=green&hide_clan=true&theme=dark&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=EmanuelCruz&stroke=green&hide_clan=true&top_languages=true)
