@@ -56,7 +56,7 @@
 ---
 
 <p align="center" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="[https://github.r2v.ch/codewars?user=USERNAME](https://github.r2v.ch/codewars?user=EmanuelCruz&stroke=green&hide_clan=true&top_languages=true)" />
+    <a href="https://www.codewars.com/users/EmanuelCruz">
+      <img src="https://github.r2v.ch/codewars?user=EmanuelCruz&stroke=green&hide_clan=true&top_languages=true" />
     </a>
 </p>
