@@ -2,32 +2,6 @@
 
 ## Hi, 👋 if you keep reading you will know more about me and my interests
 
-### About Me
-
-- 🔍 &nbsp; Exploring new web technologies.
-- 🎓 &nbsp; Studying Information Systems Engineering.
-- 💼 &nbsp; I’m currently working on Full Stack Development projects.
-- 🎯 &nbsp; Learning more about Backend and Frontend Development.
-- 🎉 &nbsp; My hobbies are sports in general, video games and programming.
-
-### 🔍 &nbsp; Learning Now
-
-- Advanced OOP
-- Design Patterns
-- Flutter for beginner
-
-### Languages and Tools
-
-<p>
-  <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="75" alt="Logo PHP">&nbsp
-  <img src="https://media.giphy.com/media/y4qp2YuQLh5jjB6mdI/giphy.gif" width="50" alt="Logo Laravel">&nbsp
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="Logo JavaScript">&nbsp
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" alt="Logo ReactJs">&nbsp
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50" alt="Logo NodeJs">&nbsp
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="115" alt="Logo Git">&nbsp
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="55" alt="Logo Bootstrap">&nbsp;
-<p>
-
 ---
 
 <p  align="center">
@@ -48,3 +22,37 @@
         <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/>
     </a>-->
 </p>
+
+---
+
+### About Me
+
+- 🔍 &nbsp; Exploring new web technologies.
+- 🎓 &nbsp; Studying Information Systems Engineering.
+- 💼 &nbsp; I’m currently working on Full Stack Development projects.
+- 🎯 &nbsp; Learning more about Backend and Frontend Development.
+- 🎉 &nbsp; My hobbies are sports in general, video games and programming.
+
+### 🔍 &nbsp; Learning Now
+
+- Advanced OOP
+- Design Patterns
+- Advanced Laravel
+- - [X] Flutter for beginner
+- Astro JS
+
+### Languages and Tools
+
+<p>
+  <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="75" alt="Logo PHP">&nbsp
+  <img src="https://media.giphy.com/media/y4qp2YuQLh5jjB6mdI/giphy.gif" width="50" alt="Logo Laravel">&nbsp
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="Logo JavaScript">&nbsp
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" alt="Logo ReactJs">&nbsp
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50" alt="Logo NodeJs">&nbsp
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="115" alt="Logo Git">&nbsp
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="55" alt="Logo Bootstrap">&nbsp;
+<p>
+
+---
+
+![Codewars](https://github.r2v.ch/codewars?user=EmanuelCruz&stroke=green)
