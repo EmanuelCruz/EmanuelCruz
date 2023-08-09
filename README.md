@@ -56,7 +56,7 @@
 ---
 
 <p align="center" >
-    <a href="https://www.codewars.com/users/EmanuelCruz">
+    <a href="https://www.codewars.com/users/ema.c">
       <img src="https://github.r2v.ch/codewars?user=EmanuelCruz&stroke=green&hide_clan=true&top_languages=true" />
     </a>
 </p>
