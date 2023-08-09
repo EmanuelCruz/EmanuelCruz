@@ -40,6 +40,7 @@
 - Advanced Laravel
 - - [X] Flutter for beginner
 - Astro JS
+- Go
 
 ### Languages and Tools
 
